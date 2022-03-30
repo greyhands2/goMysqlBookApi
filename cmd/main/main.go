@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/grehand2/goMysqlBookApi/pkg/routes"
+	"github.com/greyhands2/goMysqlBookApi/pkg/routes"
 )
 
 func main() {
